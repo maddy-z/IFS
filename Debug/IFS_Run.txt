@@ -1,0 +1,4 @@
+./IFS.exe -input fern.txt -output fern.tga -points 100000 -iters 100 -size 1000 1000
+./IFS.exe -input dragon.txt -output dragon.tga -points 100000 -iters 100 -size 1000 1000
+./IFS.exe -input giant_x.txt -output giant_x.tga -points 100000 -iters 100 -size 1000 1000
+./IFS.exe -input sierpinski_triangle.txt -output sierpinski_triangle.tga -points 100000 -iters 100 -size 1000 1000
